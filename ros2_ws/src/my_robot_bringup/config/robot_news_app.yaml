@@ -1,0 +1,19 @@
+/robot_news_station_glskard:
+  ros__parameters:
+    robot_name: gbot
+
+/robot_news_station_bb8:
+  ros__parameters:
+    robot_name: bbot
+
+/robot_news_station_daneel:
+  ros__parameters:
+    robot_name: dbot
+
+/robot_news_station_jander:
+  ros__parameters:
+    robot_name: jbot
+
+/robot_news_station_c3po:
+  ros__parameters:
+    robot_name: cbot

@@ -1,0 +1,8 @@
+# Ignore ROS2 build directories
+build/
+install/
+log/
+
+# Ignore other unnecessary files
+*.pyc
+*.swp
