@@ -69,6 +69,12 @@ Here are some useful commands and tools you might use during development:
    source install/setup.bash
    ros2 launch my_robot_bringup turtlesim_catch_them_all_v2.launch.xml
 
+## Results
+
+![Spawn and Catch Simulation for the Final Project](turtlesim_project.png)
+
+The image visually demonstrates the functionality of the "Spawn and Catch Simulation" in the final project. It shows multiple turtles being spawned at random positions within the simulation environment. A robot (turtle_controller) is actively chasing these turtles to "catch" them, with the path and movement of the robot being visualized. The image emphasizes key elements like the turtle spawning service, control loop for catching the turtles, and the interaction between different ROS2 nodes, such as the turtle_spawner and turtle_controller nodes. The layout helps to illustrate the dynamics of spawning, controlling, and catching in the simulation environment.
+
 ## Notes
 
 Here are some useful commands for working with ROS2 services:
